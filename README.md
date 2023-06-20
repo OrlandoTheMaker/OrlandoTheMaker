@@ -3,7 +3,7 @@
 	Hi! i am Jeremiah Abdulsalam (Aka Orlando(The Maker)). I am a developer from Nigeria.
 	My first programming language was Python Programming Language, and i started in 2019 and ever since, i just can't seem to stop using her.
 	I am 23, and during the past years, i've built amazing tools for penetration testers.
-	check out my website for africa <a href='http://hiddenafrica.42web.io/navigator.html?i=1'>here</a>.
+	check out my website for africa <a href='http://hiddenafrica.42web.io/navigator.html?i=1'>here (Firefox Browsers Only)</a>.
 	
 	Most of the pentesting tools i made were basic port scanners, network analyzers etc.
 	
