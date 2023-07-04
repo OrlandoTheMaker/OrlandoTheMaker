@@ -1,6 +1,11 @@
 # MACHINE LEARNING / ARTIFICIAL INTELLIGENCE ENGINEER
+<html>
+	 <p style="margin-left:10%; width:10cm;" >
+		 <img src="https://images.unsplash.com/photo-1591453089816-0fbb971b454c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fG1hY2hpbmUlMjBsZWFybmluZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+	 </p>
+     </html> 
   
-	Hi! i am Jeremiah Abdulsalam (Aka Orlando(The Maker)). I am a developer from Nigeria.
+     Hi! i am Jeremiah Abdulsalam (Aka Orlando(The Maker)). I am a developer from Nigeria.
 	My first programming language was Python Programming Language, and i started in 2019 and ever since, i just can't seem to stop using her.
 	I am 23, and during the past years, i've built amazing tools for penetration testers.
 	check out my website for africa <a href='http://hiddenafrica.42web.io/navigator.html?i=1'>here (Firefox Browsers Only)</a>.
@@ -10,6 +15,12 @@
 	I'm not that great at UIs but more efficient with terminal based scripts,it's why i love python.
 	I love coding. When i think of ten years from now, i still see myself writing code and loving it even more.
 
+<html>
+	 <p style="margin-left:10%; width:10cm;" >
+		 <img src="https://images.unsplash.com/photo-1573496528681-9b0f4fb0c660?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDV8fG1hY2hpbmUlMjBsZWFybmluZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+	 </p>
+     </html>
+ 
 ## 
 ## WHAT YOU CAN EXPECT FROM JEREMIAH:
 * Expertise in Pandas for data manipulation and analysis in Python.
@@ -83,6 +94,13 @@ Nurturing empathy, communication, and interpersonal skills, which are valuable i
 
 Prioritizing work-life balance and nurturing personal relationships.
 Demonstrating the ability to connect with others on a personal level and creating a positive and joyful atmosphere.
+
+
+<html>
+	 <p style="margin-left:10%; width:10cm;" >
+		 <img src="https://plus.unsplash.com/premium_photo-1682002013406-239256494b5c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTA2fHxtYWNoaW5lJTIwbGVhcm5pbmd8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+	 </p>
+     </html>
 
 ## YOU CAN ALWAYS FIND ME HERE:
 * <a href='https://web.facebook.com/profile.php?id=100093388869888'>Facebook</a>
